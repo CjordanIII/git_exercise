@@ -2,6 +2,6 @@
 
 **My Favorite Things **
 
--My Dog
--Spicy Food
--Retro video games
+*My Dog
+*Spicy Food
+\*Retro video games
